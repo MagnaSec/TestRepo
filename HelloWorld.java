@@ -5,7 +5,7 @@ public class HelloWorld {
     public static void main(String[] args)
     {
         // Prints "Hello, World" to the terminal window.
-        String apikey = "P&g%23C7YT4*&h0^f#!o";
+        String apikey = "ghp_1234567890abcdefghijklmnopqrstuv";
         
         System.out.println("Hello, World");
     }
